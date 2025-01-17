@@ -2,6 +2,8 @@
 
 Este é um projeto de um Jogo da Memória desenvolvido em HTML, CSS e JavaScript.
 
+🔗 https://codebytayne.github.io/memory-game/
+
 ## Como Jogar
 
 1. Clique em duas cartas para virá-las.
