@@ -3,6 +3,7 @@
 <p>Este é um projeto de um Jogo da Memória desenvolvido em HTML, CSS e JavaScript.</p>
 <p> 🔗 <a href="https://codebytayne.github.io/memory-game/">https://codebytayne.github.io/memory-game/</a> </p>
 
+
 <h2>Como Jogar</h2>
 <ol>
   <li>Clique em duas cartas para virá-las.</li>
@@ -35,11 +36,8 @@
 </ol>
 
 <h2>Demonstração</h2>
-<p>Aqui está um vídeo demonstrando o jogo em funcionamento:</p>
-<video width="640" height="480" controls>
-  <source src="./src/demo/game recording.mp4" type="video/mp4">
-  Seu navegador não suporta o elemento de vídeo.
-</video>
+<p>Aqui está um GIF demonstrando o jogo em funcionamento:</p>
+<img src="./src/demo/game recording.gif" alt="Demonstração do Jogo" style="width:640px;height:480px;">
 
 <h2>Estrutura do Projeto</h2>
 <pre><code>
@@ -51,7 +49,7 @@ jogo-da-memoria/
 │   │   ├── ponto.m4a
 │   │   └── trilhasonora.m4a
 │   ├── demo/
-│   │   └── game recording.mp4
+│   │   └── game recording.gif
 │   ├── fontes/
 │   │   ├── tittlefont.ttf
 │   │   └── typppfont.ttf
@@ -65,4 +63,3 @@ jogo-da-memoria/
 ├── index.html
 ├── README.md
 </code></pre>
-
