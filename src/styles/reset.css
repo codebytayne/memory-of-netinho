@@ -1,0 +1,15 @@
+@font-face{
+    font-family: "tittlefont";
+    src: url("../fontes/tittlefont.ttf") format("truetype");
+}
+@font-face {
+    font-family: "typppfont";
+    src: url("../fontes/typppfont.ttf") format("truetype");
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    box-sizing: border-box;
+}
