@@ -1,10 +1,12 @@
-@font-face{
-    font-family: "tittlefont";
-    src: url("../fontes/tittlefont.ttf") format("truetype");
-}
+
 @font-face {
     font-family: "typppfont";
     src: url("../fontes/typppfont.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Starborn";
+    src: url("../fontes/Starborn.ttf") format("truetype");
 }
 
 * {

@@ -3,21 +3,30 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Jogo Da Memória</title>
+  <title>Netinho Tap</title>
   <link rel="stylesheet" href="./src/styles/reset.css">
   <link rel="stylesheet" href="./src/styles/main.css">
-  <link rel="icon" href="../memory-game/src/images/favicon-32x32.png" type="ïmage/png">
-
+  <link rel="icon" href="./src/favicon/favicon-32x32.png" type="image/png">
+  <link rel="manifest" href="./manifest.json">
+  <meta name="theme-color" content="#1e90ff">
+  <meta name="description" content="Um jogo da memória divertido e desafiador para todas as idades!">
 </head>
 <body>
   <div class="container">
-    <h2>JOGO DA MEMORIA</h2>
+    <h2>Netinho Tap</h2>
     <div class="status">
       <div class="timer">00:00</div>
       <div class="score">Pontos: 0</div>
     </div>
     <div class="game"></div>
-    <button class="reset" onclick="window.location.reload()">RESET GAME</button>
+    <button class="reset" onclick="window.location.reload()" aria-label="Reiniciar o jogo">RESET GAME</button>
+  </div>
+  <div id="resultWindow" class="hidden">
+    <div id="resultContent">
+      <h2>Resultado</h2>
+      <p id="resultText"></p>
+      <button id="restartButton" onclick="restartGame()">Restart</button>
+    </div>
   </div>
   <script src="./src/scripts/engine.js" defer></script>
 </body>
