@@ -4,6 +4,8 @@
 
 🔗 [Jogue Netinho Tap clicando aqui](https://codebytayne.github.io/memory-of-netinho/)
 
+🔗 [Baixe o APK](https://drive.google.com/file/d/1Qd4BFc1V3yAbGGrIYXZgyVAt0aGa3q8V/view?usp=sharing/)
+
 ## 🧐 Demonstração
 
 ![Texto alternativo](/src/demo/gamerecording.gif/)
