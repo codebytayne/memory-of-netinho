@@ -1,10 +1,10 @@
-# 🎮 Jogo da Memória 🎴
+# 🎮 Netinho Tap 🎴
 
 >Este é um projeto de um Jogo da Memória desenvolvido em HTML, CSS e JavaScript, e foi criado com muito carinho como presente para um menino muito especial, o Netinho. Cada carta do jogo traz uma lembrança única e divertida, formada pelas suas próprias fotos.
 
 🔗 [Jogue Netinho Tap clicando aqui](https://codebytayne.github.io/memory-of-netinho/)
 
-🔗 [Baixe o APK](https://drive.google.com/file/d/1Qd4BFc1V3yAbGGrIYXZgyVAt0aGa3q8V/view?usp=sharing/)
+🔗 [Baixe o APK](https://drive.google.com/file/d/1Uveu1oOIK3XtfBJn6z0ZDqt5SJd7QRzY/view?usp=sharing)
 
 ## 🧐 Demonstração
 
