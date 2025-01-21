@@ -2,7 +2,7 @@
 
 >Este é um projeto de um Jogo da Memória desenvolvido em HTML, CSS e JavaScript, e foi criado com muito carinho como presente para um menino muito especial, o Netinho. Cada carta do jogo traz uma lembrança única e divertida, formada pelas suas próprias fotos.
 
-🔗 [Jogue Netinho Tap clicando aqui]()
+🔗 [Jogue Netinho Tap clicando aqui](https://codebytayne.github.io/memory-of-netinho/)
 
 ## 🧐 Demonstração
 
